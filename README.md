@@ -4,6 +4,11 @@
 
 Please check (HOMEWORK.md)[./HOMEWORK.md]
 
+## Improvements
+
+1. Performance of application could be improved if I could use regex operation
+2. Files should be ranked by relevance. Question is how?
+
 ## Introduction
 
 Assignment was really easy, so I added additional challenges
@@ -20,3 +25,7 @@ Install all deps with `yarn` or `npm install`
 ## Executing CLI
 
 Run program with `yarn search "node_modules/**/*.js" BufferedConsole` or `npm run search "node_modules/**/*.js" BufferedConsole`
+
+## Run tests
+
+With `yarn test`
